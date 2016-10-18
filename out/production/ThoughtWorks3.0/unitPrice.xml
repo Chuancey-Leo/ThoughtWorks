@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<stragety>
+    <weekday>
+        <time_9>30</time_9>
+        <time_10>30</time_10>
+        <time_11>30</time_11>
+        <time_12>50</time_12>
+        <time_13>50</time_13>
+        <time_14>50</time_14>
+        <time_15>50</time_15>
+        <time_16>50</time_16>
+        <time_17>50</time_17>
+        <time_18>80</time_18>
+        <time_19>80</time_19>
+        <time_20>60</time_20>
+        <time_21>60</time_21>
+    </weekday>
+    <weekend>
+        <time_9>40</time_9>
+        <time_10>40</time_10>
+        <time_11>40</time_11>
+        <time_12>50</time_12>
+        <time_13>50</time_13>
+        <time_14>50</time_14>
+        <time_15>50</time_15>
+        <time_16>50</time_16>
+        <time_17>50</time_17>
+        <time_18>60</time_18>
+        <time_19>60</time_19>
+        <time_20>60</time_20>
+        <time_21>60</time_21>
+    </weekend>
+</stragety>
